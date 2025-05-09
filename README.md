@@ -16,7 +16,9 @@ Dart Enumの基本はDartの開発ではよく知られていますが、Dartは
 ## 使用したライブラリ
 
 ネットワークの接続チェック
+
 https://pub.dev/packages/connectivity_plus
 
 HTTP通信
+
 https://pub.dev/packages/http
